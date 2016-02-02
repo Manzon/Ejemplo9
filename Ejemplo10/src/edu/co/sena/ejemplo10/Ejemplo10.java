@@ -18,6 +18,7 @@ public class Ejemplo10 {
         System.out.println("Hernando Enrique Moreno Moreno");
         System.out.println("Daniel");
         System.out.println("ya izi y ahora que ? kevin :v");
+        System.out.println("Holiwis :3");
     }
     
 }
